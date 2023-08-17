@@ -1,5 +1,5 @@
-#ifndef TOKEN
-#define TOKEN
+#ifndef __TOKEN__
+#define __TOKEN__
 
 enum Token {
     tok_eof = -1,

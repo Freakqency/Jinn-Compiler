@@ -1,5 +1,5 @@
-#ifndef LEXERH
-#define LEXERH
+#ifndef __LEXER__
+#define __LEXER__
 
 #include <string>
 
